@@ -44,4 +44,4 @@ This project uses the following libraries:
 ## Screenshots  
 Here’s a preview of the simulation in action:  
 
-![Quantum Universe Simulation]([Screenshot 2025-02-27 211231.png](https://raw.githubusercontent.com/StefanStoilov777/Quantum-Morphogenesis-With-Colors-Simulator/blob/main/Screenshot%202025-02-27%20211231.png?raw=true))
+<img src="https://github.com/StefanStoilov777/Quantum-Morphogenesis-With-Colors-Simulator/blob/main/Screenshot%202025-02-27%20211231.png?raw=true" width="600">
